@@ -19,7 +19,7 @@ Class Load: **6Hrs./ Week (Theory: 3Hrs, Practical: 3Hrs.)**
 
 - [Syllabus](./syllabus.md)
 
-- [Lab Report](./Lab/README.md)
+- [Lab Report](./README.md)
 
 ### Technologies Used
 
