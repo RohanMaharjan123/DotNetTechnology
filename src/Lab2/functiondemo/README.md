@@ -7,7 +7,7 @@ Date: Feb 24th, 2024
 ## Source Code
 
 ```csharp // See https://aka.ms/new-console-template for more information
-uusing System;
+using System;
 namespace functiondemo
 {
     class Program
