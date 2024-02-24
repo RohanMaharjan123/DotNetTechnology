@@ -1,4 +1,4 @@
-## Simpleinterest
+## Area and Perimeter of Circle
 
 Name: Program to calculate Area and Perimeter of Circle
 
