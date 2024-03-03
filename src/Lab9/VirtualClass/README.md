@@ -1,6 +1,6 @@
-## Program to Virtual class and method  Lambda
+## Program to Virtual class and method  
 
-Name: Program to Virtual class and method Lambda
+Name: Program to Virtual class and method 
 
 Date: Mar 3rd, 2024
 
@@ -45,4 +45,4 @@ class Program
 
 ## Output
 
-![Program to Virtual class and method Lambda](./output.png)
+![Program to Virtual class and method](./output.png)
