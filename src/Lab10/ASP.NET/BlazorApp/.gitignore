@@ -1,0 +1,15 @@
+# Blazor output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+
+# NuGet packages
+*.nuget.props
+*.nuget.targets
