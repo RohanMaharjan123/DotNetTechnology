@@ -1,0 +1,26 @@
+# ASP.NET artifacts
+obj/
+bin/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.vscode
+
+# ReSharper files
+_ReSharper/
+*.resharper
+*.resharper.user
+
+# NuGet packages
+packages/
+
+# Build results
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
